@@ -15,8 +15,8 @@
             </div>
             <div class="top-bar-right">
                 <a href="browse.php">Browse Items | </a>
-                <a href="page.php">About | </a>
-                <a href="page.php">Search</a>
+                <a href="page.php">About </a>
+                <a class="button" href="browse.php">Search</a>
             </div>
         </div>
     </header>

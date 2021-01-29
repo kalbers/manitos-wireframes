@@ -9,17 +9,17 @@
 
         <div class="medium-4 cell">
           <a href="project-home.php"><img src="https://via.placeholder.com/500?text=IMAGE" alt=""></a>
-          <h2><a href="project-home.php">Title of Collecting Project</a></h2>
+          <h2><a href="project-home.php">Title of Project</a></h2>
           <p>A description of the project. Lorem ipsum dolor sit amet consectetur adipisicing elit. Ea tenetur, officia omnis molestias voluptatibus, illum quaerat labore, possimus quia saepe id dolorem.</p>
         </div>
         <div class="medium-4 cell">
           <a href="project-home.php"><img src="https://via.placeholder.com/500?text=IMAGE" alt=""></a>
-          <h2><a href="project-home.php">Title of Collecting Project</a></h2>
+          <h2><a href="project-home.php">Title of Project</a></h2>
           <p>A description of the project. Lorem ipsum dolor sit amet consectetur adipisicing elit. Ea tenetur, officia omnis molestias voluptatibus, illum quaerat labore, possimus quia saepe id dolorem.</p>
         </div>
         <div class="medium-4 cell">
           <a href="project-home.php"><img src="https://via.placeholder.com/500?text=IMAGE" alt=""></a>
-          <h2><a href="project-home.php">Title of Collecting Project</a></h2>
+          <h2><a href="project-home.php">Title of Project</a></h2>
           <p>A description of the project. Lorem ipsum dolor sit amet consectetur adipisicing elit. Ea tenetur, officia omnis molestias voluptatibus, illum quaerat labore, possimus quia saepe id dolorem.</p>
         </div>
       </div>
